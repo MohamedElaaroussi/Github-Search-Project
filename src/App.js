@@ -67,7 +67,7 @@ function App() {
       {/* <ModalTest/> */}
 
       {/* Github profile finder */}
-      {/* <GithubProfileFinder/>  */}
+      <GithubProfileFinder/> 
 
       {/* Search Autocomplete */}
       {/* <SearchAutocomplete/> */}
