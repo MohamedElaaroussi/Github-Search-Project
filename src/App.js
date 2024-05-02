@@ -27,6 +27,7 @@ function App() {
     <div className="App">
       {/* Accordian component */}
       {/* <Accordian/> */}
+
       {/* Random color component */}
       {/* <RandomColor/> */}
 
@@ -47,7 +48,7 @@ function App() {
       {/* <TreeView menus={menus} /> */}
 
       {/* QR code generator */}
-      {/* <QRCodeGenerator/> */}
+      <QRCodeGenerator/>
 
       {/* light and dark theme switch */}
       {/* <LightDarkMode/> */}
@@ -62,7 +63,7 @@ function App() {
       {/* <ModalTest/> */}
 
       {/* Github profile finder */}
-      <GithubProfileFinder/> 
+      {/* <GithubProfileFinder/>  */}
 
       {/* Search Autocomplete */}
       {/* <SearchAutocomplete/> */}
