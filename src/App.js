@@ -48,7 +48,11 @@ function App() {
       {/* <TreeView menus={menus} /> */}
 
       {/* QR code generator */}
-      <QRCodeGenerator/>
+      {/* <QRCodeGenerator/> */}
+
+
+
+
 
       {/* light and dark theme switch */}
       {/* <LightDarkMode/> */}
