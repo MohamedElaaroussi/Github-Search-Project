@@ -48,7 +48,7 @@ function App() {
       {/* <TreeView menus={menus} /> */}
 
       {/* QR code generator */}
-      {/* <QRCodeGenerator/> */}
+      <QRCodeGenerator/>
 
 
 
@@ -58,7 +58,7 @@ function App() {
       {/* <LightDarkMode/> */}
 
       {/* Scroll indicator component */}
-      {/* <ScrollIndicator url={"https://dummyjson.com/products?limit=100"} /> */}
+      {/* <ScrollIndicator url={"https://dummyjson.com/products?limit=10"} /> */}
 
       {/* Custom tabs component */}
       {/* <TabTest /> */}
@@ -67,7 +67,7 @@ function App() {
       {/* <ModalTest/> */}
 
       {/* Github profile finder */}
-      <GithubProfileFinder/> 
+      {/* <GithubProfileFinder/>  */}
 
       {/* Search Autocomplete */}
       {/* <SearchAutocomplete/> */}
@@ -93,7 +93,7 @@ function App() {
       {/* <ScrollToTopAndBottom/> */}
 
       {/* Scroll to a Particular Section */}
-      {/*<ScrollToSection/> */}
+      {/* <ScrollToSection/> */}
     </div>
   );
 }
